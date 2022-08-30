@@ -1,0 +1,23 @@
+E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\FreeRTOS_1\BrowseInfo\Middlewares\FreeRTOS\croutine.pbi: \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\Middlewares\Third_Party\FreeRTOS\Source\croutine.c \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stddef.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Full.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Core\Inc\FreeRTOSConfig.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\portable\IAR\ARM_CM7\r0p1\portmacro.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\intrinsics.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\iar_intrinsics_common.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h \
+  E:\Projeler\STM32\STM32F746\FreeRTOS\FreeRTOS_1\EWARM\..\Middlewares\Third_Party\FreeRTOS\Source\include\croutine.h
